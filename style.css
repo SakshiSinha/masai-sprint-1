@@ -1,0 +1,158 @@
+<html>
+<style>
+#container1{
+  background-color:blue;
+  width:auto;
+  height:100px;
+  border:10px solid black;
+  
+}
+#container2{
+  background-color:#F06292;
+  width:auto;
+  height:700px;
+  border:2px solid green;
+  margin-top:30px;
+  
+}
+#container1 div{
+  display:flex;
+}
+.textCenter{
+  text-align:center;
+}
+.floatleft{
+  float:left;
+}
+.floatright{
+  float:righ#container1{
+ 
+  width:auto;
+  height:100px;
+  border:10px solid black;
+  
+}
+}
+.colRed{
+  color:red;#container1{
+ 
+  width:auto;
+  height:100px;
+  border:10px solid black;
+  
+}
+}
+.leftmargin_100{
+  margin-left:100px;
+}
+.rightmargin_100{
+  margin-right:100px;
+}
+.leftmargin_250{
+  margin-left:250px;
+}
+.fontsize_55{
+  font-size:55px;
+}
+.fontsize_20{
+  font-size:20px;
+}
+.topmargin_50{
+  margin-top: 50px;
+}
+.topnav {
+  overflow: hidden;
+ width:100%;
+  background-color: #333;
+  border-radius:50%;
+}
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-left:50px;
+  margin-right:50px;
+    font-size:30px;
+}
+.leftmargin_200{
+  margin-left:200px;
+}
+.leftmargin_30{
+  margin-left:30px;
+}
+.grad {
+    background-image: linear-gradient(to bottom right, red, yellow);
+ 
+  }
+#container4{
+  display : grid;
+  grid-gap:20px;
+  border:2px;
+  grid-template-rows:100px;
+  grid-template-columns:auto;
+  background-color:pink;
+   border-radius:50%;
+  
+}
+ .topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav1 a {
+  float: left;
+  color: red;
+  padding: 14px 16px;
+   margin-left:50px;
+  margin-right:50px;
+    font-size:50px;
+  font-size: 30px;
+}
+
+.topnav1 a:hover {
+  background-color: white;
+  color: blue;
+  font-size:50px;
+}
+#container5{
+  
+  width:auto;
+  height:1500px;
+  border:3px solid black;
+  
+}
+.grad1 {
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+img {
+  border-radius: 50%;
+}
+.grad2{
+  background-image: radial-gradient(red 5%, pink 15%, white 60%);
+}
+.clear{
+  clear:both;
+}
+.container6{
+  background-image: radial-gradient(red 5%, pink 15%, pink 60%);
+  width:100%;
+  height:100px;
+}
+.footer {
+   
+  left: 0;
+   bottom: 0;
+   width: 100%;
+  height:50px;
+   background-color:pink;
+   color: black;
+   text-align: right;
+}
+
+</style >
+
+
+</html>
